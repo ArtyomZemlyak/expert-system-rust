@@ -1,0 +1,16 @@
+{
+  "idx": "1e80f2bb1cf7491620f5cc7cfdb6eae1",
+  "value": "с5",
+  "relation": {
+    "in": {
+      "4ac14d763fa720db9b2754cfcaf5b013": {
+        "depends_and": 78217
+      }
+    },
+    "out": {
+      "145e664a9d93357072d9d782ea10c74c": {
+        "depends_or": 1
+      }
+    }
+  }
+}

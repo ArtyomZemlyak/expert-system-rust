@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "dbes/Cargo.toml",
+        "my_macro/Cargo.toml"
+    ]
+}
